@@ -1,3 +1,3 @@
 # Observing-Polarization-of-Light
-Abstract
+## Abstract
 The purpose of this experiment is to understand the polarization properties of light using polarizers and a quarter-wave retarder. In Investigation 1, we found that the intensity of a linearly polarized light through a rotating polarizer will follow a cos2 θ dependence. In Investigation 2, we found that adding a polarizer that is 90à out of phase will result in the intensity following a sin2 θ cos2 θ dependence. In Investigation 3, we learned about partial polarization from our data only partially following the expected 4 sin2 θ cos2 θ sin2 δ/2 dependence. In Investigation 4, we verified that a quarter-wave retarder produces circularly polarized light from linearly polarized light, however our data showed the effects of partial polarization.
